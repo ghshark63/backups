@@ -1,0 +1,21 @@
+наследование(множественное виртуальное) виртуальные функции (таблицы, таблицы таблиц и тд.)
+копи элижн и рво
+умные указатели
++- исключения
+inline and ODR with linker errors
+when compiler implicitly generates copy, move ... constructors
+unorderred_map, linked list
+concepts, enable_if
+см. имплементацию std::function + optional + variant + std::invoke + small object optimization
+ODR - как работать с несколькими файлами(inline ли шаблоны, почему out of class method definition не inline, факт что классы по дефолту инлайн...)
+CTAD 
+overload pattern
+stack memory layout, where pointers points to(end of the obj, or begin)
+strict aliasing, casting a char array to any type
+how new/delete works
+should i repeat "inline static etc" in function definition after its declaration in another TU
+CRTP
+storage duration
+rules of class partial specialization(about template parameters)
+deducing this
+pointers to members
